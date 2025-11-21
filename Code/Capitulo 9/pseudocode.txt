@@ -1,0 +1,15 @@
+texto = READ lib.text
+FOR palavra in texto:
+
+
+print(texto)
+
+
+ler o texto
+criar uma lista com todas as palavras do texto original
+descobrir onde tem os place holders
+pegar os novos valores
+substituir os placeholders pelos novos valores
+juntar tudo novamente no texto
+printar o texto
+salvar em um novo arquivo
